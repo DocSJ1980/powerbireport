@@ -7,7 +7,7 @@ const PowerbiReport = () => {
                 title="Report Section"
                 width="100%"
                 height="100%"
-                src="https://app.powerbi.com/view?r=eyJrIjoiZjMzZDQwOWMtMDc5NS00NDdhLWFmMGUtMDU5YjkxYWVkZmYyIiwidCI6IjQ1N2Y4MWU0LWMzODAtNDViNC05ZDU1LTczYWVmNTc2ZmQ2NCIsImMiOjl9"
+                src="https://app.powerbi.com/view?r=eyJrIjoiOTZlNzE1NDctMjVlMC00MWFkLWJhZGItMGE4MDNmZTc3MTVhIiwidCI6IjQ1N2Y4MWU0LWMzODAtNDViNC05ZDU1LTczYWVmNTc2ZmQ2NCIsImMiOjl9&pageName=ReportSectionb8bb472c2d7ffd9a9050"
                 frameBorder="0"
                 allowFullScreen="true"
             />
